@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Story</title>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: #fdfdfd;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #444;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+    .signature {
+      font-style: italic;
+      text-align: right;
+    }
+    a {
+      display: block;
+      margin-top: 40px;
+      text-align: center;
+      text-decoration: none;
+      color: #007acc;
+    }
+  </style>
+</head>
+<body>
+  <h1>The Journey Begins</h1>
+
+  <p>Once upon a time, in a small village…</p>
+
+  <p><strong>2025 — the year everything I planned fell apart.</strong></p>
+
+  <p>I had dreams… clear, focused, and full of hope.<br>
+  I gave my heart to goals, to love, to people.<br>
+  But life had other plans.</p>
+
+  <p>What I built with so much belief… collapsed.<br>
+  What I thought was certain… disappeared.</p>
+
+  <p>I failed in my career, I lost in love,<br>
+  And somewhere along the way, I lost myself too.</p>
+
+  <p>Everything went wrong — not just outside, but inside me.<br>
+  This pain, this silence, this mental weight… it’s real.</p>
+
+  <p>I never thought I’d feel this broken.<br>
+  But even now, with all that’s gone wrong —</p>
+
+  <p><strong>I’m still breathing, still standing, still hoping.</strong></p>
+
+  <p>And maybe… just maybe… that’s where the healing begins.</p>
+
+  <p class="signature">✍️ — Debaditya Barman</p>
+
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
